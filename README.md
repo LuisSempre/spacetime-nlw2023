@@ -1,6 +1,3 @@
-<p align="center">
-  <img alt="" src="" width="100px" />
-</p>
 
 
 ## 💻 Projeto
@@ -14,18 +11,12 @@ Esse projeto está sob a licença ISC.
 ---
 
 <p align="center">
-  Feito com 💜 by Luis Lucas
+  By Luis Lucas
 </p>
 
 <!--START_SECTION:footer-->
 
 <br />
 <br />
-
-<p align="center">
-  <a href="" target="_blank">
-    <img align="center" src="" alt="banner"/>
-  </a>
-</p>
 
 <!--END_SECTION:footer-->
